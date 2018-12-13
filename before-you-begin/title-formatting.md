@@ -61,7 +61,7 @@ Remember to follow news for the series so that the title can be updated as soon 
 ## Special Characters
 
 {% hint style="info" %}
-Examples of how to deal with non-alphanumeric characters in titles can be seen in the table below. If uncertain, contact a [moderator](../moderator/moderator-list.md).
+Examples of how to deal with non-alphanumeric characters in titles can be seen in the table below. If uncertain, contact a [moderator](../moderator-list.md).
 {% endhint %}
 
 * Titles which feature subtitles separated full-width tildes \(～\) or other similar separators should be separated with a colon.  
@@ -87,4 +87,6 @@ Examples of how to deal with non-alphanumeric characters in titles can be seen i
 | 魔法少女2世 | [Mahou Shoujo 2-sei](https://anilist.co/manga/104770/Mahou-Shoujo-2sei/) |
 | 滅び時だと彼女は告げた \#異能犯罪捜査〈零局〉 | [Horobi Doki dato Kanojo wa Tsugeta \#InouHanzaiSousa &lt;Rei Kyoku&gt;](https://anilist.co/manga/104760/Horobi-Doki-dato-Kanojo-wa-Tsugeta-InouHanzaiSousa-Rei-Kyoku/) |
 | 政宗くんのリベンジafter school | [Masamune-kun no Revenge: After School](https://anilist.co/manga/104896) |
+
+
 
