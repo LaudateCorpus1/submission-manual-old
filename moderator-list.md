@@ -29,8 +29,7 @@ However, please don't give them a title and expect them to do all the work for y
 
 | Name | Role | Role |
 | :--- | :--- | :--- |
-| [MexicanAnime](http://anilist.co/user/1790) | Lead Manga |  |
-| [Lemon](http://anilist.co/user/639) | Lead Manga |  |
+| [Mex](http://anilist.co/user/1790) | Lead Manga |  |
 | [Watashi](http://anilist.co/user/923) | Manga |  |
 | [Subpyro](http://anilist.co/user/27211) | Manga |  |
 | [Thunderplant](http://anilist.co/user/1828) | Manga |  |
@@ -52,12 +51,11 @@ However, please don't give them a title and expect them to do all the work for y
 | :--- | :--- | :--- | :--- |
 | [Josh](http://anilist.co/user/1) | Lead Developer |  | Community |
 | [matchai](http://anilist.co/user/2) | Lead Social Media | Developer | Community |
-| [MexicanAnime](http://anilist.co/user/1790) | Social Media |  | Community |
-| [Lemon](http://anilist.co/user/639) | Social Media |  | Community |
+| [Mex](http://anilist.co/user/1790) | Social Media |  | Community |
 | [Kazakuri](http://anilist.co/user/4659) | Developer |  | Community |
 | [Retui](http://anilist.co/user/1544) | Social Media |  | Community |
 | [Taluun](http://anilist.co/user/21510) |  |  | Community |
 | [Zex](https://anilist.co/user/87028) |  |  | Community |
-
+| [Electrochemist](https://anilist.co/user/148769) |  |  | Community |
 
 
